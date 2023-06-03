@@ -1,0 +1,38 @@
+<!doctype Html>
+<head><title>Resume Template</title> </head>
+<body>
+<table border="1" align="center" width="60%">
+<tr>
+<th> <h1>Welcome To My Resume Template! <h1></th></tr>
+<tr> <th align="left"> <h2> vedant vinayak sawarkar </h2>
+<img src="vedant.jpg" align="right" height="230" width="230">
+<b> Owner At: 0413vedant.com</b> <br><br> Mobile No: +917719026583<br><br>
+Email Address: sawarkarvedant61@gmail.com <b>
+<h2> Personal Information </h2>
+<ul>
+<li> Father Name: vinayak maratrao sawarkar</li>
+<li>Religion: Hindu </li>
+<li>Caste: teli </li>
+<li>
+CNIC: XXXXXXXXXX</list>
+<li>
+Date of Birth: 06-07-2004</li>
+<li>Nationality: Indian</li>
+<li>Marital Status: Single</li></ul>
+<h2> Qualification:</h2>
+<table border="1"> <tr> <th> Examination</th> <th> Division </th><th> Board/University</th>
+</tr>
+<tr> <td> Branch (electrical Engineering) </td> <td> 1st year</td> <td>Nagpur University</td>
+</table>
+<ul>
+<h2> Personal Certificates & Skills:</h2>
+<ul><li>Ms. Word, Excel, PowerPoint, Language/Communication skills</li>
+<li> C programming, Web Designing (Certified by Udemy.com) </li>
+<li> Internet Marketing, Photography (Certified by Udemy.com) </li>
+<li> Udemy Instructor</li></ul>
+<h2> Experience: </h2/>
+<h2>Languages: </h2>
+<ul><li>Marathi </li>
+<li>English</li>
+<li>Hindi</li>
+</>
